@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image:url("https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcREj22c-wMNL5IDmU99v8G7voUl17Yxm0JJqMLqttdPT4DnaB99zqVK7HWiNzjP3aZnzCEf-ikAqb2yiDk");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+}
+h1{
+    color:hsl(213, 73%, 9%);
+    font-size: 4.5em;
+    text-shadow: 1px 0px 10px lightblue;
+    text-align: center;
+}
+h3{
+    color:rgb(6, 64, 83);
+    font-family: Belanosima;
+}
+h4{
+    color:rgb(142, 13, 75);
+    font-family: Belanosima;
+    padding-left: 26px;
+}
+#img1{
+    margin-left:10px;
+    padding:5px;
+}
+.fa-solid.fa-right-to-bracket{
+    color:rgb(58, 15, 15);
+    font-size:50px;
+}
+div{
+    overflow:hidden;
+}
+.fa-solid.fa-right-to-bracket:hover{
+    color:rgb(193, 68, 68);
+    font-size:100px;
+}
+#right{
+    text-align:right;
+    background-color: rgb(106, 189, 47);
+}
+form{
+    font-size: 37px;
+    padding: 20px;
+    align-items: center;
+}
+#b1{
+    background-color: rgba(143, 17, 15, 0.823);
+    text-align: left;
+    font-family: Belanosima, Calibri;
+}
+#b2{
+    background-color: rgba(14, 81, 67, 0.818);
+    font-size: 30px;
+    padding: 20px;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#blh1{
+    filter: blur(3px);
+}
+.box{
+    width: 720px; height: 720px; border-radius: 15px;
+}
+.form{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+h2{
+    color:rgb(27, 7, 7);
+    font-family: Belanosima;
+}
+#dog1{
+    float:left;
+    margin-right: 10px;
+    padding: 10px;
+}
+#dog2{
+    float:left;
+    margin-right: 10px;
+    padding: 10px;
+}
+#dog3{
+    float:left;
+    margin-right: 10px;
+    padding: 10px;
+}
+#dog4{
+    float:left;
+    margin-right: 10px;
+    padding: 10px;
+}
+#dog5{
+    float:left;
+    margin-right: 10px;
+    padding: 10px;
+}
+pre{
+    font-family: Belanosima;
+    font-size: 17px;
+    background-color: rgba(149, 159, 104, 0.264);
+
+}
+.menu{
+    background-color: #5abe39a5;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.menu .meh {
+    color: #fff; 
+    text-decoration: bold;
+    margin: 0 10px;
+    font-size: 16px;
+    font-family: 'Belanosima', sans-serif; 
+}
